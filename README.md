@@ -1,3 +1,4 @@
 # jsgit-demo
-This is my first Git Reository for JavaScript.
+This is my first Git Repository for JavaScript.
+<br>
 My name is Yashvi.
